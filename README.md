@@ -19,7 +19,7 @@ MySQL
 JAVA , CSS, JAVASCRIPT, HIBERNATE,HTML, SERVLET, JSP
 
 ### GIT
-https://github.com/nuriel99/Cost_Manager_Web_ServerSide
+https://github.com/maorte/Cost_Manager_Web_ServerSide
 
 ### Youtube
 https://youtu.be/JDsarlm36Ko
